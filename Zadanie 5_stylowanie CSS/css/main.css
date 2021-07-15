@@ -1,0 +1,22 @@
+ 
+body {
+ background-color: royalblue;
+
+
+}
+
+p{
+    font-size: 50px;
+    color: gold;
+    text-align: center;
+    
+}
+
+div p{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+
+

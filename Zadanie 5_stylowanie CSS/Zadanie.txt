@@ -1,0 +1,18 @@
+W pliku index.html dodaj DIV, w którym umieścisz paragraf oraz SPAN.
+
+W folderze CSS stwórz plik main.css i podepnij go na stronie.
+
+Ostyluj sekcję BODY oraz paragraf:
+
+w BODY ustal kolor tła całej strony na royalblue,
+
+paragrafowi nadaj rozmiar 50px, kolor gold,
+
+wyśrodkuj paragraf za pomocą CSS.
+
+Za pomocą tagu <style> ostyluj SPAN.
+Rozmiar ustaw na 70px, pogrub go (w CSS, nie za pomocą tagu <strong>) oraz dodaj podkreślenie (również za pomocą CSS, nie za pomocą <u>).
+
+Pod DIV-em stwórz nowy paragraf. Nadaj mu style liniowo.
+Niech ten paragraf będzie powiększony do 100px i niech ma kolor tomato.
+
